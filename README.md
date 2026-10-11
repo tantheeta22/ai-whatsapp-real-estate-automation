@@ -53,7 +53,16 @@ Prototype / learning project. The workflow is being configured and tested, inclu
 
 ## Note
 
+
+
 This repository documents the project architecture and implementation approach. It does not contain the underlying n8n workflow export or application source code.
 
 Sensitive credentials, access tokens, customer data, and private configuration details are intentionally excluded.# ai-whatsapp-real-estate-automation
 AI-powered WhatsApp automation for real estate lead management using n8n and Chakra HQ.
+## Project Screenshots
+
+### n8n Workflow
+![n8n Workflow](2.jpeg)
+
+### WhatsApp Demo
+![WhatsApp Demo](3.jpeg)
